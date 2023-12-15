@@ -83,8 +83,8 @@ The project requires substantial computational resources, and the team has acces
 **Right Camera Image**
 ![Raw Image - Right Camera](/assets/raw_image_right.png)
 
-### Depth from Classical Stereo Vision
-![Depth Map - Classical Stereo](/assets/classic_depth_map.png)
+### Disparity Map SGBM from Classical Stereo Vision
+![Disparity Map - Classical Stereo](/assets/classic_sgbm_disparity_map.png)
 
 ### Depth from Deep Learning Stereo Vision
 ![Deep Learning Stereo Depth Map](/assets/dl_stereo_depthmap.png)
